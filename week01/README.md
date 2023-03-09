@@ -1,0 +1,8 @@
+#Assingment Week01
+
+due date: *23.03.14.*
+
+| no. | 문제 번호 | 문제 이름 |  풀이 링크 |
+| ---: | :---: | :--- | :--- |
+| 01 | 2441 | 별 찍기 - 4 | [link]https://www.acmicpc.net/problem/2441 | 
+
