@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
+int main(){
     int note[8] = { 0, };
     for(int i = 0; i < 8; i++)
     {

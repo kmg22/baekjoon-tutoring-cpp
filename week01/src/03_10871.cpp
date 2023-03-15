@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(void)
-{
+int main(void){
     int n, x;
     cin>>n>>x;
     int str[n];

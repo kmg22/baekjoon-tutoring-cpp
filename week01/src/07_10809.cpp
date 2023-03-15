@@ -2,8 +2,7 @@
 #include <string>
 using namespace std;
 
-int main(void)
-{
+int main(void){
     string s;
     cin>>s;
 
