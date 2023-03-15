@@ -30,7 +30,7 @@ due date: ***23.03.22.***
 
 | no. | 문제 번호 | 문제 이름 | 권장 언어 |  풀이 링크 |
 | ---: | :---: | :--- | :---: | :--- |
-| 01 | 1977 | 완전제곱수 | c++ 17 | [link](https://www.acmicpc.net/problem/) | 
+| 01 | 1977 | 완전제곱수 | c++ 17 | [link](https://www.acmicpc.net/problem/1977) | 
 | 02 | 2455 | 지능형 기차 | c++ 17 | [link](https://www.acmicpc.net/problem/2455) |
 | 03 | 1157 | 단어 공부 | c++ 17 | [link](https://www.acmicpc.net/problem/1157) |
 | 04 | 11655 | ROT13 | c++ 17 | [link](https://www.acmicpc.net/problem/11655) |
