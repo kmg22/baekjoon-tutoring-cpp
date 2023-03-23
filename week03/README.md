@@ -34,3 +34,6 @@ due date: ***23.03.28.***
 | 02 | 1268 | 임시 반장 정하기 | c++ 17 | [link](https://www.acmicpc.net/problem/1268) |
 | 03 | 3460 | 이진수 | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
 | 04 | 3052 | MODULO | c++ 17 | [link](https://www.acmicpc.net/problem/3052) |
+| 05 | 2743 | 단어 길이 재기 | c++ 17 | [link](https://www.acmicpc.net/problem/2743) |
+| 06 | 3460 | Binary numbers | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
+| 07 | 2309 | 일곱 난쟁이 | c++ 17 | [link](https://www.acmicpc.net/problem/2309) |
