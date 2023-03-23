@@ -36,3 +36,4 @@ due date: ***23.03.28.***
 | 04 | 3052 | MODULO | c++ 17 | [link](https://www.acmicpc.net/problem/3052) |
 | 06 | 3460 | Binary numbers | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
 | 07 | 2309 | 일곱 난쟁이 | c++ 17 | [link](https://www.acmicpc.net/problem/2309) |
+| 07 | 2309 | 일곱 난쟁이 | c++ 17 | [link](https://www.acmicpc.net/problem/2309) |
