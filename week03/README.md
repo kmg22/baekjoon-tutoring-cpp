@@ -16,6 +16,8 @@ due date: ***23.03.28.***
 
 +) 이번주 01, 02, 03, 04 문제는 week02에도 있었던 문제입니다.
 
+***중복 문제가 있어 삭제하였습니다.***
+
 <br>
 
 
@@ -34,8 +36,7 @@ due date: ***23.03.28.***
 | ---: | :---: | :--- | :---: | :--- |
 | 01 | 11655 | ROT13 | c++ 17 | [link](https://www.acmicpc.net/problem/11655) |
 | 02 | 1268 | 임시 반장 정하기 | c++ 17 | [link](https://www.acmicpc.net/problem/1268) |
-| 03 | 3460 | 이진수 | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
+| 03 | 3460 | Binary numbers | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
 | 04 | 3052 | MODULO | c++ 17 | [link](https://www.acmicpc.net/problem/3052) |
-| 06 | 2743 | 단어 길이 재기 | c++ 17 | [link](https://www.acmicpc.net/problem/2743) |
-| 06 | 3460 | Binary numbers | c++ 17 | [link](https://www.acmicpc.net/problem/3460) |
+| 05 | 2743 | 단어 길이 재기 | c++ 17 | [link](https://www.acmicpc.net/problem/2743) |
 | 07 | 2309 | 일곱 난쟁이 | c++ 17 | [link](https://www.acmicpc.net/problem/2309) |
