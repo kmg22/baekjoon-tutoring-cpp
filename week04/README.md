@@ -32,4 +32,10 @@ due date: ***23.04.04.***
 
 | no. | 문제 번호 | 문제 이름 | 풀이 링크 |
 | ---: | :---: | :--- | :--- |
-| 01 |  |  | [link]() |
+| 01 | 25083 | 새싹 | [link](https://www.acmicpc.net/problem/25083) |
+| 02 | 11382 | 꼬마 정민 | [link](https://www.acmicpc.net/problem/11382) |
+| 03 | 2738 | 행렬 덧셈 | [link](https://www.acmicpc.net/problem/2738) |
+| 04 | 5086 | Factors And Multiples | [link](https://www.acmicpc.net/problem/5086) |
+| 05 | 18108 | 1998년생인 내가 태국에서는 2541년생?! | [link](https://www.acmicpc.net/problem/18108) |
+| 06 | 2566 | 최댓값 | [link](https://www.acmicpc.net/problem/2566) |
+| 07 | 27866 | 문자와 문자열 | [link](https://www.acmicpc.net/problem/27866) |
